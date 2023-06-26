@@ -50,15 +50,10 @@ Technologies used in the project:
 
 *   Python
 *   AI
-*   Speech Recognition
-*   Text to Speech
-*   Speech to Text
-*   Face recognition
-*   Weekly Planner
 *   Sqlite
 *   Multi Threading
 *   UI Design
-*   Emotion Analysis
+
   
 <br>
 <h2>Project Screenshots:</h2>
