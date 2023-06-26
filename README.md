@@ -36,7 +36,7 @@ Facedetect.png
 ```
  msg['From'] = "...@gmail.com" #MAIL ADDRESS
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-server.login("...@gmail.com", cipher_suite.decrypt(psw[0][0].encode("utf-8")).decode("utf-8")) #MAIL ADDRESS, PASSWORD
+server.login("...@gmail.com", ) #MAIL ADDRESS, PASSWORD
 ```
 <p>In line 582, you need to insert news api client key. </p>
 
